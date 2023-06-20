@@ -1,3 +1,4 @@
+
 # age =30
 # price =20
 # first_name="omid"
@@ -20,5 +21,4 @@
 # print(10 ** 3)
 # print(10 * 3)
 
-x = (10 + 3) * 2
-print(x)
+
